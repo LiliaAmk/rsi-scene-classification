@@ -1,10 +1,9 @@
-# rsi-scene-classification
-
+### rsi-scene-classification
 ## Scene Classification of High-Resolution Remote Sensing Imagery
-
 This repository contains a two-part mini-project based on the scientific paper:  
 **"Transferring Deep Convolutional Neural Networks for the Scene Classification of High-Resolution Remote Sensing Imagery"**  
 [Link to paper](https://www.mdpi.com/2072-4292/7/11/14680)
+
 
 ## Overview
 
